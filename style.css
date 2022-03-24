@@ -10,7 +10,14 @@ body {
     align-items: center;
 }
 
+header {
+    background-color: rgb(255, 153, 51, 0.4);
+    padding: 15%;
+    margin: 5%;
+}
+
 form {
     display: flex;
     flex-direction: column;
+    gap: 10px;
 }
