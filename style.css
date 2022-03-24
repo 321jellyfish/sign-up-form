@@ -21,3 +21,17 @@ form {
     flex-direction: column;
     gap: 10px;
 }
+
+button {
+    color: white;
+    font-weight: bolder;
+    padding: 1em;
+    background-color: rgb(255, 153, 51, 0.8);
+    border: none;
+    border-radius: 3px;
+}
+
+button:hover {
+    color: rgb(255, 153, 51, 1);
+}
+
